@@ -1,0 +1,16 @@
+{
+  "sdkRepositoryMappings": {
+    "azure-sdk-for-go": {
+      "mainRepository": "azure-sdk-for-go-test"
+    },
+    "azure-sdk-for-js": {
+      "mainRepository": "azure-sdk-for-js-test"
+    },
+    "azure-sdk-for-python": {
+      "mainRepository": "test-tihlocal-py-opened-pr-sdk"
+    },
+    "azure-sdk-for-trenton": {
+      "mainRepository": "azure-sdk-for-trenton-test"
+    }
+  }
+}
